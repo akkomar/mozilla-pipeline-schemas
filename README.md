@@ -1,4 +1,4 @@
-# Mozilla Pipeline Schemas
+# Mozilla Pipeline Schemas 😯
 
 This repository contains schemas for Mozilla's data ingestion pipeline and data
 lake outputs.
